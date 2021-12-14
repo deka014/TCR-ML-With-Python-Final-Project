@@ -1,1 +1,1 @@
-# Prediction-of-Loan-Status-using-knn
+# Prediction-of-Loan-Status-using-logisticRegression
