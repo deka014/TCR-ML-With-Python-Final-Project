@@ -1,1 +1,1 @@
-# Prediction-of-Heart-disease-detection-LogisticRegression
+# Prediction-of-Heart-disease-detection-knn
